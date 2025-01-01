@@ -62,8 +62,6 @@ options:
                         Additional image file types.
   -t TIMER, --timer TIMER
                         Timer to change the wallpaper each n seconds
-
-All The Glory To Jesus God...
 ```
 
 ### Example

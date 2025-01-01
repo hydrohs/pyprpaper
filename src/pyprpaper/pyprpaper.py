@@ -229,7 +229,7 @@ def parse_arguments():
     parser = argparse.ArgumentParser(
         prog='pyprpaper',
         description='A simple wallpaper changer.',
-        epilog='All The Glory To Jesus God...',
+        epilog="",
         add_help=True,
         allow_abbrev=True,
         exit_on_error=True,
