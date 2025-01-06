@@ -14,6 +14,11 @@ directory(ies).
 
 ## Installation
 
+```sh
+python -m build --wheel --no-isolation
+sudo python -I -m installer dist/*
+```
+
 You can install [pyprpaper](https://pypi.org/project/pyprpaper/) using `pip`:
 
 ```sh
